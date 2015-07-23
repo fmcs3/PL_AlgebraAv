@@ -1,4 +1,4 @@
-Prova de conceito de modelo de programação linear inteira para o problema do corte, proposto no artigo:
+Prova de conceito de modelo de programação linear inteira para o problema de corte unidimensional, proposto no artigo:
 
 Título: 
 Programação linear inteira para o problema de corte unidimensional de estoque com reaproveitamento dos resíduos.
